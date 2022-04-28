@@ -88,6 +88,10 @@
   <a href="https://github.com/Hemalatha-kola"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/hemalatha-kola/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hemalatha-kola&layout=compact&theme=algolia" alt="Hemalatha-kola" /></a> </p>
+	
 -----
 Credits: [Hemalatha-kola](https://github.com/Hemalatha-kola)
 
